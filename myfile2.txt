@@ -1,3 +1,4 @@
-Not the second!
 
 The third file
+
+Not the second!
